@@ -3,3 +3,5 @@
 ## Integrantes
 
 1. Bryan Recinos / 7690-19-18053
+2. Daniel Valdez / 7690-19-4872
+
