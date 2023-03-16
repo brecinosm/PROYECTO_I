@@ -30,10 +30,10 @@ por lo que desde las perspectiva de la organizacion se necesita saber lo siguien
 
       Precios en general segun el servicio contratado por cliente, para su posterior facturacion:
 
-   | Tipo de Servicio | Blusa | Acolchado |
-   | ---------------- | ----- | --------- |
-   | Lavado a Seco    | Q150  | Q380      |
-   | Maquina Lavador  | Q110  | Q300      |
+      | Tipo de Servicio | Blusa | Acolchado |
+      | ---------------- | ----- | --------- |
+      | Lavado a Seco    | Q150  | Q380      |
+      | Maquina Lavador  | Q110  | Q300      |
 
 3. Se lavan las prendas segun el pedido del cliente
 
