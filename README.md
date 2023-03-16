@@ -1,2 +1,6 @@
-# PROYECTO_I
-analisis I / Proyecto Grupal
+# Proyecto I
+## Analisis de sistemas I 
+
+| Nombre | Carnet |
+|--------|--------|
+| Bryan Recinos | 7690-19-18053|
