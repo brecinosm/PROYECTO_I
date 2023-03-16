@@ -28,7 +28,7 @@ por lo que desde las perspectiva de la organizacion se necesita saber lo siguien
      * Precio unitario
      * Precio total
 
-   ### Precios en general segun el servicio contratado por cliente, para su posterior facturacion:
+      Precios en general segun el servicio contratado por cliente, para su posterior facturacion:
 
    | Tipo de Servicio | Blusa | Acolchado |
    | ---------------- | ----- | --------- |
