@@ -5,5 +5,5 @@
 
 | Nombre           | Carnet        | Carga de trabajo individual | Estado     |
 | ---------------- | ------------- | --------------------------- | ---------- |
-| Bryan Recinos    | 7690-19-18053 | Incisos 1, 2 y 4            | En proceso |
+| Bryan Recinos    | 7690-19-18053 | Incisos 1, 2 y 4            | Completado |
 | Kimberky Salazar | 7690-20-3305  |                             |            |
