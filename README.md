@@ -1,7 +1,7 @@
 # Proyecto I
-## Analisis de sistemas I 
+### Analisis de sistemas I 
 
-### Integrantes y lo que trabajo cada uno
+### Integrantes y lo que trabajo cada uno trabajo
 
 | Nombre           | Carnet        | Carga de trabajo individual | Estado     |
 | ---------------- | ------------- | --------------------------- | ---------- |
