@@ -160,4 +160,4 @@ En esta etapa se incluye la integracion del software en el entorno seleccionado,
 
 ![codigo](ingresa_dato4.png)
 
-**Se logro ejecutar el software solicitado por el cliente y todo funciona segun lo solicito, se adjunta el codigo fuente y su respectiva prueba en produccion para usuarios finales, cliente queda satisfecho**
+**Se logro ejecutar el software solicitado por el cliente y todo funciona segun lo requerido, se adjunta el codigo fuente y su respectiva prueba en produccion para usuarios finales, cliente queda satisfecho**
