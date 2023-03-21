@@ -41,7 +41,7 @@ En esta etapa inicial se plantearan los requeriminetos del proyecto y se analiza
 
 7. Cliente debe generar reportes formales con los tipos de lavado mas solicitados
 
-**Lo cual representado por medio de un diagrama queda de la siguiente manera:**
+**Lo cual representado por medio de un diagrama de clase de uso, queda de la siguiente manera:**
 
 ![caso](caso2.png)
 
