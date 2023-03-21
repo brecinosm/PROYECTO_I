@@ -1,4 +1,4 @@
-# Pruebas
+# Pruebas e Implementacion
 
 ```
 En esta etapa se incluye la integracion del software en el entorno seleccionado, que nuestro caso es una aplicacion web. Esto esta enfocado para el cliente final y asi determinar si el sotfware cumple con sus espectativas.
