@@ -5,5 +5,5 @@
 
 | Nombre           | Carnet        | Carga de trabajo individual | Estado     |
 | ---------------- | ------------- | --------------------------- | ---------- |
-| Bryan Recinos    | 7690-19-18053 | Incisos 1, 2 y 4            | Completado |
+| Bryan Recinos    | 7690-19-18053 | Incisos 1, 2, 4 y 5         | Completado |
 | Estuardo Lopez | 7690-20-3305  |                             |            |
