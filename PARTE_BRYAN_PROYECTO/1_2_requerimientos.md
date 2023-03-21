@@ -49,7 +49,7 @@ En esta etapa inicial se plantearan los requeriminetos del proyecto y se analiza
 
 ## iniciso #3
 
-Cliente solicita una aplicacion web con una base de datos para registrar a sus cliente en el sistema
+Cliente solicita una aplicacion web con una base de datos para registrar a sus usuarios en el sistema
 
 **Analisis:**
 
